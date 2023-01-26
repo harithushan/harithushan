@@ -21,8 +21,8 @@ Here are some ideas to get you started:
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"      /> </a> 
     <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/NumPy-%233F4F75.svg?style=for-the-badge&logo=NumPy&logoColor=white"/> </a>
     <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-ffffff.svg?style=for-the-badge&logo=MySQL&logoColor=black"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
-     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-%234ea94b.svg?style=for-the-badge&logo=MySQL&logoColor=black"/> </a>
     <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> </a> 
     <a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/> </a>
     <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
