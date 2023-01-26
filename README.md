@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Thushanthan</h2>
+<h3 align="center">👋 Hi, I'm Thushanthan</h3>
 
 <!--
 **harithushan/harithushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 **- 😄 Pronouns: ...
 **- ⚡ Fun fact: ...
 **-->
-## **LANGUAGES AND TOOLS**
+### **LANGUAGES AND TOOLS**
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
